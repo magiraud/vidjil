@@ -2,7 +2,7 @@ enum34==1.1.6
 funcsigs==1.0.2
 mock==2.0.0
 pbr==3.1.1
-requests==2.12.3
+requests==2.20.0
 six==1.11.0
 unittest-xml-reporting==2.1.1
 uWSGI==2.0.14
